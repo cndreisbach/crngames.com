@@ -1,0 +1,27 @@
+html {
+	background-color: #784;
+}
+
+body {
+	background-color: #ddc;
+	border-color: #b00;
+}
+
+#summary-info {
+	background-color: #452;
+	color: #ffe;
+}
+
+#menu {
+	background-color: #D4DD82;
+	border-color: #452;
+}
+
+a, a:visited {
+	color: #000066;
+}
+
+#disclaimer {
+    font-size: 0.8em;
+    margin: 10px;
+}

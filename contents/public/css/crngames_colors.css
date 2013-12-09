@@ -1,0 +1,32 @@
+/*
+ *
+ * #B0D7D4 - light blue
+ * #D4DD82 - light green
+ * #E9EDBA - tan
+ * #EDA156 - orange
+ * #482112 - brown
+ * #F9F4CC - cream
+ */
+
+html {
+	background-color: #B0D7D4;
+}
+
+body {
+	background-color: #F9F4CC;
+	border-color: #EDA156;
+}
+
+#summary-info {
+	background-color: #482112;
+	color: #F9F4CC;
+}
+
+#menu {
+	background-color: #D4DD82;
+	border-color: #482112;
+}
+
+a, a:visited {
+	color: #000066;
+}

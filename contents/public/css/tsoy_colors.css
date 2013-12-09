@@ -1,0 +1,35 @@
+/*
+ * #5E3A80 - purple
+ * #4A295C - dark purple
+ * #A42EAD - pink
+ * #B1F8EA - lightest sea
+ * #A7EDD5 - light sea
+ * #9BE3BE - sea
+ * #333333 - dark grey
+ * #5B5B5B - grey
+ * #CCCCCC = light grey
+ * #EEEEEE - white
+ */
+
+html {
+	background-color: #4A295C;
+}
+
+body {
+	background-color: #FCFCFC;
+	border-color: #333333;
+}
+
+#summary-info {
+	background-color: #A42EAD;
+	color: #FFFFFF;
+}
+
+#menu {
+	background-color: #A7EDD5;
+	border-color: #B43EBD;
+}
+
+a, a:visited {
+	color: #4A295C;
+}

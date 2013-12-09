@@ -1,0 +1,34 @@
+/*
+ * #0066B3 - blue
+ * #00487D - dark blue
+ * #80C9FF - bright blue
+ * #BFE4FF - pale blue
+ * 
+ * #FFE200 - yellow
+ * #B39E00 - dark yellow
+ * #FFF8BF - pale yellow
+ * #FFF180 - orangey yellow
+ */
+
+html {
+	background-color: #80C9FF;
+}
+
+body {
+	background-color: #FFF8BF;
+	border-color: #00487D;
+}
+
+#summary-info {
+	background-color: #0066B3;
+	color: #FFF8BF;
+}
+
+#menu {
+	background-color: #FFE200;
+	border-color: #0066B3;
+}
+
+a, a:visited {
+	color: #24006B;
+}

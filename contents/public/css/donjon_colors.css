@@ -1,0 +1,35 @@
+/*
+ * #370000 - blackish
+ * #964408 - rust
+ * #C7141A - red
+ * #E14A01 - orangish
+ * #FBB948 - yellow
+ * #F0F0F0 - grey
+ * #FFFFFF - white
+ */
+
+html {
+	background-color: #C7141A;
+}
+
+body {
+	background-color: #F0F0F0;
+}
+
+#summary-info {
+	background-color: #370000;
+	color: #F0F0F0;
+}
+
+#menu {
+	border-color: #370000;
+	background-color: #FBB948;
+}
+
+a {
+	color: #C7141A;
+}
+
+#menu a, #menu a:visited {
+	color: #370000;
+}
